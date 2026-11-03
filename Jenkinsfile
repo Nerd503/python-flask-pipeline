@@ -1,6 +1,7 @@
 pipeline {
 agent any
 
+
 environment {
     IMAGE_NAME = "nandhanka/flask-pipeline"
     IMAGE_TAG = "${BUILD_NUMBER}"
