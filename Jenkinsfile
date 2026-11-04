@@ -3,7 +3,7 @@ agent any
 
 
 environment {
-    IMAGE_NAME = "nandhanka/flask-pipeline"
+    IMAGE_NAME = "nandhanka/flask-pipeline1"
     IMAGE_TAG = "${BUILD_NUMBER}"
 }
 
